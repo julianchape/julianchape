@@ -14,7 +14,7 @@ Me encantaría colaborar en proyectos y ayudar a otras personas a aprender e ini
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![SAAS](https://img.shields.io/badge/-SASS-ff69b4?style=for-the-badge&logo=sass&logoColor=white)
 
-##### **Backend*
+##### **Backend**
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql&logoColor=orange)
