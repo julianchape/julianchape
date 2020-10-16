@@ -18,14 +18,14 @@ Me encantaría colaborar en proyectos y ayudar a otras personas a aprender e ini
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql&logoColor=orange)
-![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=MongoDB)
+![MongoDB]()
 
 ##### **Herramientas**
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-3f0f91?style=for-the-badge&logo=slack&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
-!(https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm)
+![NPM](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm)
 
 
 #### Estemos en contacto!
