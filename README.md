@@ -25,7 +25,7 @@ Me encantaría colaborar en proyectos y ayudar a otras personas a aprender e ini
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-3f0f91?style=for-the-badge&logo=slack&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
-![NPM](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm)
+!(https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm)
 
 
 #### Estemos en contacto!
